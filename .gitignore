@@ -22,3 +22,13 @@ results/
 .env
 .env.*
 !.env.example
+
+# Generated dataset files
+prepared_dataset/
+data/
+
+# Generated experiments and reports
+runs/
+results/
+logs/
+checkpoints/
