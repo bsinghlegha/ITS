@@ -1,0 +1,12 @@
+{
+  "dataset_root": "/workspace/IDD_Detection",
+  "prepared_dataset": "/workspace/ITS_Project/prepared_dataset",
+  "class_mapping_path": "/workspace/ITS_Project/configs/class_mapping.json",
+  "dataset_yaml": "/workspace/ITS_Project/configs/dataset.yaml",
+  "classes": 15,
+  "train_label_files": 4955,
+  "train_objects_converted": 119003,
+  "val_label_files": 3449,
+  "val_objects_converted": 73438,
+  "test_annotations_available": false
+}

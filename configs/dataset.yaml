@@ -1,0 +1,19 @@
+path: /workspace/ITS_Project/prepared_dataset
+train: images/train
+val: images/val
+names:
+  0: animal
+  1: autorickshaw
+  2: bicycle
+  3: bus
+  4: car
+  5: caravan
+  6: motorcycle
+  7: person
+  8: rider
+  9: traffic light
+  10: traffic sign
+  11: trailer
+  12: train
+  13: truck
+  14: vehicle fallback

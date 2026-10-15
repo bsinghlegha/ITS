@@ -1,0 +1,17 @@
+{
+  "animal": 0,
+  "autorickshaw": 1,
+  "bicycle": 2,
+  "bus": 3,
+  "car": 4,
+  "caravan": 5,
+  "motorcycle": 6,
+  "person": 7,
+  "rider": 8,
+  "traffic light": 9,
+  "traffic sign": 10,
+  "trailer": 11,
+  "train": 12,
+  "truck": 13,
+  "vehicle fallback": 14
+}
