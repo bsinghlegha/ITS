@@ -1,0 +1,48 @@
+{
+  "dataset_root": "/workspace/IDD_Detection",
+  "splits": {
+    "train": 31569,
+    "val": 10225,
+    "test": 4794
+  },
+  "annotation_status": {
+    "train": "annotated",
+    "val": "annotated",
+    "test": "unannotated"
+  },
+  "classes": [
+    "animal",
+    "autorickshaw",
+    "bicycle",
+    "bus",
+    "car",
+    "caravan",
+    "motorcycle",
+    "person",
+    "rider",
+    "traffic light",
+    "traffic sign",
+    "trailer",
+    "train",
+    "truck",
+    "vehicle fallback"
+  ],
+  "training_object_counts": {
+    "car": 65676,
+    "bus": 13829,
+    "autorickshaw": 24498,
+    "vehicle fallback": 14992,
+    "truck": 20759,
+    "motorcycle": 78119,
+    "rider": 73108,
+    "person": 70319,
+    "bicycle": 2573,
+    "animal": 4764,
+    "traffic sign": 9916,
+    "train": 47,
+    "trailer": 11,
+    "traffic light": 2780,
+    "caravan": 125
+  },
+  "annotated_training_images": 31569
+}
