@@ -1,0 +1,4 @@
+split,images,annotated_images,average_width,average_height
+test,4794,0,1821.24,1062.09
+train,31569,31569,1850.48,1067.39
+val,10225,10225,1827.01,1053.1
