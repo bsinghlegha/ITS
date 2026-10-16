@@ -1,0 +1,16 @@
+{
+  "model": "YOLO11s",
+  "dataset": "IDD Detection",
+  "training_images_expected": 31569,
+  "validation_images_expected": 10225,
+  "test_images_listed": 4794,
+  "test_images_found": 4794,
+  "test_annotations_available": false,
+  "epochs_requested": 20,
+  "image_size": 640,
+  "best_checkpoint": "/workspace/ITS_Project/checkpoints/yolo11s/best.pt",
+  "last_checkpoint": "/workspace/ITS_Project/checkpoints/yolo11s/last.pt",
+  "validation_metrics": "/workspace/ITS_Project/results/training/yolo11s/validation_metrics_full.json",
+  "training_history": "/workspace/ITS_Project/results/training/yolo11s/idd_yolo11s_full/results.csv",
+  "prediction_directory": "/workspace/ITS_Project/results/predictions/yolo11s"
+}

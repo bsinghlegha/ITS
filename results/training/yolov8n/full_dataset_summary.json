@@ -1,0 +1,12 @@
+{
+  "model": "YOLOv8n",
+  "training_images": 31569,
+  "validation_images": 10225,
+  "epochs_requested": 20,
+  "precision": 0.7191398048281428,
+  "recall": 0.2937320634963298,
+  "mAP50": 0.32504926127291534,
+  "mAP50_95": 0.20582125867604517,
+  "best_checkpoint": "/workspace/ITS_Project/results/training/yolov8n/idd_yolov8n_full/weights/best.pt",
+  "evaluation_split": "validation"
+}

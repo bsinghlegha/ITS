@@ -1,0 +1,5 @@
+Model,Checkpoint,Size (MB),Checkpoint available
+YOLOv8n,/workspace/ITS_Project/checkpoints/yolov8n/best.pt,6.2,True
+YOLO11n,/workspace/ITS_Project/checkpoints/yolo11n/best.pt,5.24,True
+YOLO11s,/workspace/ITS_Project/checkpoints/yolo11s/best.pt,18.28,True
+MobileNetV2,/workspace/ITS_Project/checkpoints/mobilenetv2/best.pt,19.97,True

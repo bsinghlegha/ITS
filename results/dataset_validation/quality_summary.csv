@@ -1,0 +1,3 @@
+split,total_annotations,problematic_annotations,valid_annotations
+train,31569,1,31568
+val,10225,0,10225

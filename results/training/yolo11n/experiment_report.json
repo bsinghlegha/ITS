@@ -1,0 +1,13 @@
+{
+  "model": "YOLO11n",
+  "training_images": 31569,
+  "validation_images": 10225,
+  "test_split_entries": 4794,
+  "test_images_available": 4794,
+  "test_images_inferred": 100,
+  "test_ground_truth_available": false,
+  "validation_metrics_file": "/workspace/ITS_Project/results/training/yolo11n/validation_metrics_full.json",
+  "best_checkpoint": "/workspace/ITS_Project/checkpoints/yolo11n/best.pt",
+  "training_history": "/workspace/ITS_Project/results/training/yolo11n/idd_yolo11n_full/results.csv",
+  "prediction_directory": "/workspace/ITS_Project/results/predictions/yolo11n"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "YOLO11n",
+  "training_images": 31569,
+  "validation_images": 10225,
+  "epochs_requested": 20,
+  "evaluation_split": "validation",
+  "precision": 0.7139879692677853,
+  "recall": 0.2873991570840531,
+  "mAP50": 0.31817547597714513,
+  "mAP50_95": 0.20237687989925335,
+  "best_checkpoint": "/workspace/ITS_Project/checkpoints/yolo11n/best.pt"
+}
